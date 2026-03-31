@@ -49,9 +49,20 @@ Traffic source comparison
 Engagement duration analysis
 
 --
-## 📷 Dashboard Preview
+## 📊 Dashboard Preview
 
-![Dashboard](Outputs/Average cost per click.png)
+### 🔹 Average Cost Per Click
+![CPC](Outputs/Average%20cost%20per%20click.png)
 
----
+### 🔹 Maximum Ad Spend Year
+![Ad Spend](Outputs/Maximum%20Ad%20spend%20year.png)
+
+### 🔹 Traffic Source Comparison
+![Traffic](Outputs/Third%20lowest%20source%20(clicks).png)
+
+### 🔹 Year-Quarter Click Trends
+![Clicks](Outputs/Year-Quarter%20wise%20clicks.png)
+
+### 🔹 Cost Per Conversion
+![Conversion](Outputs/cost%20per%20conversion.png)
 
