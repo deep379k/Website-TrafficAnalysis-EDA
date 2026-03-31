@@ -48,3 +48,10 @@ Traffic source comparison
 
 Engagement duration analysis
 
+--
+## 📷 Dashboard Preview
+
+![Dashboard](Outputs/Average cost per click.png)
+
+---
+
